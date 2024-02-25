@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 uuuu(expected)
 * M.S. in Jekyll, GitHub University, 2019
-* B.S. in GitHub, GitHub University, 2012
+* 山东大学, 2020
 
 Work experience
 ======
