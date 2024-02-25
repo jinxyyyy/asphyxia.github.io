@@ -34,8 +34,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* 英语水平
+*  CET 6
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
